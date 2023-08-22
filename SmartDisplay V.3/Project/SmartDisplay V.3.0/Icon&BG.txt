@@ -1,0 +1,18 @@
+0 >> Boots Screen
+1 >> Landing - 4 items
+2 >> Room#1 - P2 (Manual 3 Fan)
+3 >> Room#1 - P3 (Manual 2 Fan)
+4 >> Room#1 - P4 (Manual 1 Fan)
+5 >> Room#1 - P5 (Auto Fan)
+6 >> Room#1 - P6 (Disconnect)
+7 >> Schedle
+8 >> Room#1 - P8 (OFF Fan)
+9 >> Setting Buzzer Off
+10 >> Setting Buzzer On
+11 >> Landing - 3 items
+12 >> Landing - 2 items
+13 >> Landing - 1 items
+
+
+
+
