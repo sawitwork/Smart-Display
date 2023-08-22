@@ -5,7 +5,8 @@ Software > DGUS_V7646
 Driver > XR21X141X
 NET Framework 3.5
 
-Command for control display
+###Command for control display
+
 vp 84 >> 5A01 xxxx สั่งไป หน้าต่างๆ  
 5a a5 07 82 00 84 5a 01 00 06  
 
